@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/deps/win_flex_bison-latest
+/n1ql-js/.vs/n1ql-js/v15
+/n1ql-js/Debug
+/n1ql-js/n1ql-js/Debug
